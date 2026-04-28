@@ -13,11 +13,10 @@ This repository contains my Bachelor's in Information Management (BIM) summer pr
 - HTML
 - CSS
 - JavaScript
-- php
+- PHP
 
 ## Report
 [View Full Project Report](./report/summer_report_sunil.pdf)
 
 ## Note
 The original source code was lost, but this repository preserves the complete project documentation, methodology, implementation details, and outcomes.
-
