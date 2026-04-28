@@ -13,8 +13,7 @@ This repository contains my Bachelor's in Information Management (BIM) summer pr
 - HTML
 - CSS
 - JavaScript
-- React
-- Node.js
+- php
 
 ## Report
 [View Full Project Report](./report/summer_report_sunil.pdf)
